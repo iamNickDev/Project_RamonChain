@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project RamonChain
 
 A community driven modular production ready blockchain, created from scratch where every single byte coded is LIVE recorded.
@@ -31,3 +32,6 @@ TODO
 ## License
 
 The project is currently Licensed under the MIT License.
+=======
+
+>>>>>>> 5d0a2d1c1b510735b532dd32bc776865055aefd7
